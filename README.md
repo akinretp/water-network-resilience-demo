@@ -1,6 +1,6 @@
 # Structural comparison of four water system architectures
 
-This dissertation research summary compares directed component dependency graphs extracted from four Vensim water and wastewater models. Nodes represent components identified by the analysis rules. Directed edges represent modeled dependencies between those components.
+This research summary compares directed component dependency graphs extracted from four Vensim water and wastewater models. Nodes represent components identified by the analysis rules. Directed edges represent modeled dependencies between those components.
 
 ## Architecture comparison
 
